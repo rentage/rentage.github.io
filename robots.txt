@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rentage.github.io/sitemap.html.gz
+Sitemap: https://rentage.github.io/app/sitemap.html.gz
+Sitemap: https://rentage.github.io/assets/sitemap.html.gz
+Sitemap: https://rentage.github.io/css/sitemap.html.gz
+Sitemap: https://rentage.github.io/data/sitemap.html.gz
+Sitemap: https://rentage.github.io/includes/sitemap.html.gz
+Sitemap: https://rentage.github.io/item/sitemap.html.gz
+Sitemap: https://rentage.github.io/src/sitemap.html.gz
